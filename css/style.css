@@ -11,7 +11,7 @@ body {
 }
 body > .container {
     padding-bottom: 50px; 
-
+}
 .container {
     background: rgba(255, 255, 255, 0.8);
     padding: 20px;
