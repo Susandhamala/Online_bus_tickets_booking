@@ -2,11 +2,9 @@
 this is a project that helps to automate the traditional buss ticketing system with digital mediums. 
 Bus Ticket Booking System
 
-
-
-Video link: https://youtu.be/3wLwGK9lGp4 
-
-
+Github link of project. 
+https://github.com/Susandhamala/Online_bus_tickets_booking/tree/master 
+youtube video link : https://youtu.be/7_nfKXOrw4U 
 
 this is main branch if you trouble finding codes its in master branch.
 
