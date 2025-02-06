@@ -1,6 +1,51 @@
+# Online_bus_tickets_booking
+this is a project that helps to automate the traditional buss ticketing system with digital mediums. 
 Bus Ticket Booking System
+
+Github link of project.  
+https://github.com/Susandhamala/Online_bus_tickets_booking/tree/master  
+youtube video link : https://youtu.be/HQaPrSBNw5Q   
+
+
+this is main branch if you trouble finding codes its in master branch.
+
+
+
+
+
+
+
 Overview
 The Bus Ticket Booking System is a web-based application designed to facilitate the booking of bus tickets online. The system allows users to select routes, choose seats, and book tickets conveniently from their devices. The application also includes functionalities for managing bookings, viewing booked tickets, and administrative tasks.
+
+
+
+Installation
+Clone the repository:
+
+git clone https://github.com/Susandhamala/Online_bus_tickets_booking.git
+
+
+Navigate to the project directory:
+cd bus_ticket_booking
+Import the database schema (Database Schema.sql) into your MySQL database.
+
+Update the database connection settings in database.php:
+
+Start your web server (e.g., Apache) and navigate to the project URL (e.g., http://localhost/bus_ticket_booking).
+
+Usage
+Register as a new user or login with an existing account.
+
+Select a route from the dropdown menu.
+
+Choose your seats on the seat selection page.
+
+Confirm your booking to complete the process.
+
+View your booked tickets on the View Tickets page.
+
+
 
 Features
 Route Selection: Users can select routes from a dropdown menu.
@@ -42,28 +87,3 @@ User Roles: Supports different user roles such as Admin, Manager, and Customer.
 │──edit_user.php
 │──user_booking.php
 
-
-Installation
-Clone the repository:
-
-git clone https://github.com/Susandhamala/Online_bus_tickets_booking.git
-
-
-Navigate to the project directory:
-cd bus_ticket_booking
-Import the database schema (Database Schema.sql) into your MySQL database.
-
-Update the database connection settings in database.php:
-
-Start your web server (e.g., Apache) and navigate to the project URL (e.g., http://localhost/bus_ticket_booking).
-
-Usage
-Register as a new user or login with an existing account.
-
-Select a route from the dropdown menu.
-
-Choose your seats on the seat selection page.
-
-Confirm your booking to complete the process.
-
-View your booked tickets on the View Tickets page.
