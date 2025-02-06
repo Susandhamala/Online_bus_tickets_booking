@@ -3,7 +3,17 @@ this is a project that helps to automate the traditional buss ticketing system w
 Bus Ticket Booking System
 
 
+
+Video link: https://youtu.be/3wLwGK9lGp4 
+
+
+
 this is main branch if you trouble finding codes its in master branch.
+
+
+
+
+
 
 
 Overview
